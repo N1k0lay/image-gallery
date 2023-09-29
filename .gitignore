@@ -106,3 +106,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/.idea/.gitignore
+/.idea/image-gallery.iml
+/.idea/modules.xml
+/.idea/vcs.xml

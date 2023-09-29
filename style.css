@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 10rem 0;
+    padding: 4rem 0;
     background: linear-gradient(#607d8b52, white 80%);
 }
 
