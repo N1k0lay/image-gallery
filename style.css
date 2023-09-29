@@ -25,6 +25,15 @@ main {
 .logo {
     font-size: 4rem;
     font-weight: 700;
+    position: relative;
+}
+
+.logo div {
+    position: absolute;
+    top: -1rem;
+    right: 0;
+    font-size: 1rem;
+    font-weight: 100;
 }
 
 .search {
